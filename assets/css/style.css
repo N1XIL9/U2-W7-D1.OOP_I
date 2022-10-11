@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#form {
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 50%;
+}
+
+#nome {
+    margin: 5px;
+    width: 40vw;
+    height: 4vh;
+}
+
+#cognome {
+    margin: 5px;
+    width: 40vw;
+    height: 4vh;
+}
